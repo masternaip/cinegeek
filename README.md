@@ -6,8 +6,6 @@ A movie and series streaming website.
 
 - **Browse Movies**: Explore a vast collection of movies sorted by genre, release date, or popularity.
 - **Search Functionality**: Easily find movies by title, director, or cast.
-- **User Reviews**: Read and write reviews to share your thoughts and opinions about movies.
-- **User Ratings**: Rate movies and see the average ratings provided by the community.
 - **Recommendation Engine**: Get personalized movie recommendations based on your preferences and viewing history.
 - **Responsive Design**: Enjoy a seamless experience across devices with our responsive web design.
 
