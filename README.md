@@ -36,5 +36,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - The Movie Database (TMDb) for providing the movie data through their API.
-- [Vidsrc.cc](https://vidsrc.cc) for providing the movie streaming links.
+- [Vidsrc.xyz](https://vidsrc.xyz/) for providing the movie streaming links.
 ---
