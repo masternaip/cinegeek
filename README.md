@@ -18,6 +18,15 @@ A movie and series streaming website.
 - [TMDb](https://www.themoviedb.org/) - movie database
 - [Vidsrc.to](https://vidsrc.to/) - streaming links
 
+## Local Development
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies: npm install
+4. Create .env file cp .env.example .env
+5. Start the development server: npm run dev
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
