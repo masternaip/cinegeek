@@ -16,7 +16,7 @@ A movie and series streaming website.
 - [Tailwind](https://tailwindcss.com/) – CSS
 - [Vercel](https://vercel.com/) – deployments
 - [TMDb](https://www.themoviedb.org/) - movie database
-- [Vidsrc.to](https://vidsrc.to/) - streaming links
+- [Vidsrc.to](https://vidsrc.cc/) - streaming links
 
 ## Local Development
 
