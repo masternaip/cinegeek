@@ -16,7 +16,7 @@ A movie and series streaming website.
 - [Tailwind](https://tailwindcss.com/) – CSS
 - [Vercel](https://vercel.com/) – deployments
 - [TMDb](https://www.themoviedb.org/) - movie database
-- [Vidsrc.cc](https://vidsrc.cc/) - streaming links
+- [Vidsrc.to](https://vidsrc.to/) - streaming links
 
 ## Local Development
 
@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - The Movie Database (TMDb) for providing the movie data through their API.
-- Vidsrc.cc for providing the movie streaming links.
+- Vidsrc.to for providing the movie streaming links.
 ---
